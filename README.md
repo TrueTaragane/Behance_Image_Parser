@@ -72,5 +72,5 @@
 
 <div align="center">
   <h3>📄 License</h3>
-  <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details</p>
+  <p>This project is licensed under the MIT License </p>
 </div>
