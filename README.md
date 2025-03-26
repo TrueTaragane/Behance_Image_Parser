@@ -71,6 +71,11 @@
 </ol>
 
 <div align="center">
+  <img src="https://github.com/TrueTaragane/Behance_Image_Parser/blob/main/456.png" alt="Behance Parser Interface Preview" width="800">
+  <p><em>Интерфейс парсера изображений с Behance</em></p>
+</div>
+
+<div align="center">
   <h3>📄 License</h3>
   <p>This project is licensed under the MIT License </p>
 </div>
