@@ -1,80 +1,76 @@
-Behance Image Parser & Downloader
+<h1 align="center">Behance Image Parser & Downloader</h1>
 
-A web application for parsing and downloading images from Behance projects with advanced filtering capabilities.
+<div align="center">
+  <img src="https://img.shields.io/badge/license-MIT-blue" alt="License">
+  <img src="https://img.shields.io/badge/version-1.0.0-green" alt="Version">
+</div>
 
-Key Features:
+<h2>🌐 English Description</h2>
+<p>A web application for parsing and downloading images from Behance projects with advanced filtering capabilities.</p>
 
-Parse multiple Behance project URLs simultaneously
+<h3>✨ Key Features:</h3>
+<ul>
+  <li>Parse multiple Behance project URLs simultaneously</li>
+  <li>Filter images using customizable ignore patterns</li>
+  <li>Select individual images or entire projects for download</li>
+  <li>Preview images in a responsive gallery</li>
+  <li>Download selected images as a ZIP archive with organized filenames</li>
+  <li>Responsive design works on desktop and mobile devices</li>
+</ul>
 
-Filter images using customizable ignore patterns
+<h3>🛠 Technologies Used:</h3>
+<ul>
+  <li><strong>Frontend:</strong> HTML5, CSS3, JavaScript (jQuery)</li>
+  <li><strong>Backend:</strong> PHP (for API endpoints)</li>
+  <li><strong>Libraries:</strong> Fancybox (for image previews), Font Awesome (icons)</li>
+</ul>
 
-Select individual images or entire projects for download
+<h3>📌 How to Use:</h3>
+<ol>
+  <li>Add Behance project URLs</li>
+  <li>Parse projects to load images</li>
+  <li>Select images/projects to download</li>
+  <li>Download as ZIP archive</li>
+</ol>
 
-Preview images in a responsive gallery
+<hr>
 
-Download selected images as a ZIP archive with organized filenames
+<h2>🇷🇺 Русское описание</h2>
+<p>Веб-приложение для парсинга и загрузки изображений с проектов Behance с расширенными возможностями фильтрации.</p>
 
-Responsive design works on desktop and mobile devices
+<h3>✨ Основные возможности:</h3>
+<ul>
+  <li>Одновременный парсинг нескольких проектов Behance</li>
+  <li>Фильтрация изображений с помощью настраиваемых шаблонов</li>
+  <li>Выбор отдельных изображений или целых проектов для загрузки</li>
+  <li>Просмотр изображений в адаптивной галерее</li>
+  <li>Скачивание выбранных изображений в ZIP-архиве с организованными именами файлов</li>
+  <li>Адаптивный дизайн для desktop и мобильных устройств</li>
+</ul>
 
-Technologies Used:
+<h3>🛠 Используемые технологии:</h3>
+<ul>
+  <li><strong>Frontend:</strong> HTML5, CSS3, JavaScript (jQuery)</li>
+  <li><strong>Backend:</strong> PHP (для API endpoints)</li>
+  <li><strong>Библиотеки:</strong> Fancybox (для предпросмотра изображений), Font Awesome (иконки)</li>
+</ul>
 
-Frontend: HTML5, CSS3, JavaScript (jQuery)
+<h3>📌 Как использовать:</h3>
+<ol>
+  <li>Добавьте URL проектов Behance</li>
+  <li>Запустите парсинг для загрузки изображений</li>
+  <li>Выберите изображения/проекты для скачивания</li>
+  <li>Скачайте как ZIP-архив</li>
+</ol>
 
-Backend: PHP (for API endpoints)
+<h3>⚙️ Установка:</h3>
+<ol>
+  <li>Склонируйте репозиторий</li>
+  <li>Разместите файлы на веб-сервере с поддержкой PHP</li>
+  <li>Убедитесь, что есть права на запись для файлов links.txt и ignore.txt</li>
+</ol>
 
-Libraries: Fancybox (for image previews), Font Awesome (icons)
-
-How to Use:
-
-Add Behance project URLs
-
-Parse projects to load images
-
-Select images/projects to download
-
-Download as ZIP archive
-
-Русское описание (для GitHub README)
-Парсер и загрузчик изображений с Behance
-
-Веб-приложение для парсинга и загрузки изображений с проектов Behance с расширенными возможностями фильтрации.
-
-Основные возможности:
-
-Одновременный парсинг нескольких проектов Behance
-
-Фильтрация изображений с помощью настраиваемых шаблонов
-
-Выбор отдельных изображений или целых проектов для загрузки
-
-Просмотр изображений в адаптивной галерее
-
-Скачивание выбранных изображений в ZIP-архиве с организованными именами файлов
-
-Адаптивный дизайн для desktop и мобильных устройств
-
-Используемые технологии:
-
-Frontend: HTML5, CSS3, JavaScript (jQuery)
-
-Backend: PHP (для API endpoints)
-
-Библиотеки: Fancybox (для предпросмотра изображений), Font Awesome (иконки)
-
-Как использовать:
-
-Добавьте URL проектов Behance
-
-Запустите парсинг для загрузки изображений
-
-Выберите изображения/проекты для скачивания
-
-Скачайте как ZIP-архив
-
-Установка:
-
-Склонируйте репозиторий
-
-Разместите файлы на веб-сервере с поддержкой PHP
-
-Убедитесь, что есть права на запись для файлов links.txt и ignore.txt
+<div align="center">
+  <h3>📄 License</h3>
+  <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details</p>
+</div>
